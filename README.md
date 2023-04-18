@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**suryasanthi/suryasanthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 I'm currently on an OpenSource sabbatical after more than 15 years of a global career, supporting Open Source Review Tool in Program Management and Marketing. I am also experienced in Product Management and HR.
 
+👯 I’m looking to collaborate on supporting your project in program management or marketing domains. 
+
+📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/suryas).
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about:
+- OSS Review Tool (ORT)
+- Getting started in OpenSource
+- Scaling a small OpenSource project into something bigger, by applying product management principles
+
+In my free time I read, travel, and serve my todder and 🐱 cat overlords.
+
+🏳️‍🌈 Pronouns: she/her.
+
+PS: If you're looking to hire, I am open to the right opportunity, let's talk!
