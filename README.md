@@ -5,14 +5,13 @@
 👯 I’m looking to collaborate on supporting your project in program management or marketing domains. 
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/suryas).
-Here are some ideas to get you started:
 
 💬 Ask me about:
 - OSS Review Tool (ORT)
-- Getting started in OpenSource
-- Scaling a small OpenSource project into something bigger, by applying product management principles
+- Getting started in Open Source
+- Scaling a small Open Source project into something bigger, by applying product management principles
 
-In my free time I read, travel, and serve my todder and 🐱 cat overlords.
+In my free time I read, travel, and serve my todder & 🐱 cat overlords.
 
 🏳️‍🌈 Pronouns: she/her.
 
